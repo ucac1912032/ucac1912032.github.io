@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "ucac1912032의 github 블로그"
+title                    : "ucac1912032의 GitHub 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ucac1912032"
@@ -113,16 +113,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "PKSI"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "UIPAX솔트룩스 AI프로젝트_박경성이"
+  location         : "대한민국"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "GitHub 주소"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/ucac1912032/UIPAX_P"
     - label: "Twitter"
