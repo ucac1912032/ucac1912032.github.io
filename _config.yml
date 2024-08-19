@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "PKSI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/hamster.jpg"
   bio              : "UIPAX솔트룩스 AI프로젝트_박경성이"
   location         : "대한민국"
-  email            :
+  email            : "ucac1912032@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
