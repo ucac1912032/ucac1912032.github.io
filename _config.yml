@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "ucac1912032의 GitHub 블로그"
+title                    : "ucac1912032"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ucac1912032"
-description              : "UIPAX솔트룩스 AI프로젝트_박경성이"
+description              : "UIPAX솔트룩스 AI프로젝트_PKSI"
 url                      : "https://ucac1912032.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/favicon.ico/favicon-32x32.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "PKSI"
   avatar           : "/assets/images/hamster.jpg"
-  bio              : "UIPAX솔트룩스 AI프로젝트_박경성이"
+  bio              : "UIPAX솔트룩스 AI프로젝트"
   location         : "대한민국"
   # email            : "ucac1912032@gmail.com"
   links:
