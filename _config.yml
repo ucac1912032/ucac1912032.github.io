@@ -322,5 +322,5 @@ defaults:
       read_time: false
       show_date: true
       comments: # true
-      share: true
+      share: false
       related: true
