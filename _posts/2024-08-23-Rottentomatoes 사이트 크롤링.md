@@ -240,3 +240,4 @@ filtered_df
 ```python
 filtered_df['등급'].value_counts()
 ```
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf_CxlhdE-FgL6zxnqmoEwX7bKJv60Yf3uDHWBL2rhAJsWRlbxzEYNEhvsRHYxNG7HCx2ZgJQIKo2LEZkA8OR0R-nXTX2TsbxEyuebcpFYxxmvHI4AxtPLCqr-eqTEK7ERJE0vgbJeia0-4Z8IkY_evSYRA?key=RugJmL-fnO8f1qLziYUytQ)
