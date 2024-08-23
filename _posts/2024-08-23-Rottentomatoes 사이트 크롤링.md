@@ -5,8 +5,6 @@ excerpt: "프로젝트_크롤링"
 categories:
   - Project
 ---
-
-# RottenTomatoes 사이트 크롤링
 * Top Box office 영화 데이터 불러오기
 * Top Box Ofiice 영화 등급별 비율 시각화
 * 관객 리뷰 데이터 시각화
