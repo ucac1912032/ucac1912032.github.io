@@ -6,7 +6,7 @@ categories:
   - Blog
 ---
 
-![다운로드](https://github.com/user-attachments/assets/ff3b80fe-d289-424f-8391-b85ea879a2fa)
+![img](https://github.com/user-attachments/assets/ff3b80fe-d289-424f-8391-b85ea879a2fa)
 {: .align-center}
 
 개인 프로젝트 Git Blog 개설 완료!! ㅎㅎ
