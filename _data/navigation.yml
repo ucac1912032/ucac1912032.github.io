@@ -10,3 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+   - title: "Blog"
+     url: categories/Blog
+     category: "Blog"
+   - title: "Project"
+     url: categories/Project
+     category: "Project"
+   - title: "ADsP"
+     url: categories/ADsP
+     category: "ADsP"
